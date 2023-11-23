@@ -1,4 +1,4 @@
-#string 
+ 
 #upper 
 a="mahammad momin"
 print(a.upper())
